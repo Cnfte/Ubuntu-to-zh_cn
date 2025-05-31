@@ -7,6 +7,6 @@
 
 安装命令
 
-`wget -O setcn.sh http://xx.com/scn.sh && sudo bash setcn.sh
+`wget -O setcn.sh https://raw.githubusercontent.com/Cnfte/Ubuntu-to-zh_cn/refs/heads/main/setcn.sh && sudo bash setcn.sh`
 
 完成后会自动重启
